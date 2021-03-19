@@ -1,5 +1,7 @@
 void main() {
-  dynamic name = 'Den';
-  var age = 38;
-  print('Name: $name, $age');
+  var x = 88; //Тип переменной int
+
+  var str = 'hello'; //Тип переменной string
+
+  var list = [1, 2, 3]; // Тип переменной List
 }
