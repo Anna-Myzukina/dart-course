@@ -1,4 +1,5 @@
 void main() {
+//___________Example 1___________________________
   // String -> int
   var one = int.parse('1'); //1
   assert(one == 1);
@@ -15,8 +16,7 @@ void main() {
   String piAsString = 3.14159.toStringAsFixed(2); //3.14
   assert(piAsString == '3.14');
 
-//_________________________________________________________
-
+//___________Example 2___________________________
 // объявили целое число
   int num1 = 10;
 
