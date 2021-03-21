@@ -14,4 +14,16 @@ void main() {
 // double -> String
   String piAsString = 3.14159.toStringAsFixed(2); //3.14
   assert(piAsString == '3.14');
+
+//_________________________________________________________
+
+// объявили целое число
+  int num1 = 10;
+
+// объявили дробное число
+  double num2 = 10.50;
+
+// вывели значения
+  print(num1);
+  print(num2);
 }
