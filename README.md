@@ -4,7 +4,7 @@
 Этот курс обеспечит базовое понимание языка программирования Dart. Данный курс будет полезен начинающим Flutter разработчикам.
 
 ## A Live version of the project:
-- [ ] [Основы Dart](https://stepik.org/)
+- [ ] [Основы Dart](https://stepik.org/course/92982)
 
 
 ## Environment
@@ -18,24 +18,27 @@
 * [1.3  Комментарии](https://github.com/Anna-Myzukina/dart-course/blob/main/1.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Dart/1.3_main.dart)
 * [1.4  Технология компилятора Dart](https://github.com/Anna-Myzukina/dart-course/blob/main/1.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Dart/1.4_main.dart)
 * 1.5  Важные факты и концепции языка Dart
+* 1.6 Dart FFI
+* 1.7 Null safety
    
-### 5.  Переменные и константы:
-* [5.1  Введение](https://github.com/Anna-Myzukina/dart-course/blob/main/5.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%8B/5.1_main.dart)
-* [5.2  Объявление переменных: var и dynamic](https://github.com/Anna-Myzukina/dart-course/blob/main/5.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%8B/5.2_main.dart)
-* [5.3  Константы : final и const](https://github.com/Anna-Myzukina/dart-course/blob/main/5.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%8B/5.3_main.dart)
-* [5.4  Перечисляемые типы: enum](https://github.com/Anna-Myzukina/dart-course/blob/main/5.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%8B/5.4_main.dart)
+### 2.  Переменные и константы:
+* [2.1  Введение: переменные](https://github.com/Anna-Myzukina/dart-course/blob/main/5.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%8B/5.1_main.dart)
+* [2.2  Объявление переменных: var и dynamic](https://github.com/Anna-Myzukina/dart-course/blob/main/5.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%8B/5.2_main.dart)
+* [2.3  Константы : final и const](https://github.com/Anna-Myzukina/dart-course/blob/main/5.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%8B/5.3_main.dart)
+* [2.4  Late модификатор]
+* [2.5  Перечисляемые типы: enum](https://github.com/Anna-Myzukina/dart-course/blob/main/5.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%8B/5.4_main.dart)
   
-### 6.  Базовые типы данных в Dart:
-* [6.1  Введение в базовые типы](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.1_main.dart)
-* [6.2  Числа: int и double](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.2_main.dart)
-* [6.3  Строковые переменные: String](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.3.1_main.dart)
-* [6.4  Логические переменные (тип bool): true и false](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.4_main.dart)
-* [6.5  Коллекции: List, Set, Map](https://github.com/Anna-Myzukina/dart-course/tree/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart)
-* [6.6  Руны и кластеры графем](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.6_main.dart)
-* [6.7  Символы: объект Symbol](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.7_main.dart)
+### 3.  Базовые типы данных в Dart:
+* [3.1  Введение в базовые типы](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.1_main.dart)
+* [3.2  Числа: int и double](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.2_main.dart)
+* [3.3  Строковые переменные: String](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.3.1_main.dart)
+* [3.4  Логические переменные (тип bool): true и false](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.4_main.dart)
+* [3.5  Коллекции: List, Set, Map](https://github.com/Anna-Myzukina/dart-course/tree/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart)
+* [3.6  Руны и кластеры графем](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.6_main.dart)
+* [3.7  Символы: объект Symbol](https://github.com/Anna-Myzukina/dart-course/blob/main/6.%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Dart/6.7_main.dart)
   
-### 7.  Generics:
-* 7.1  Что такое дженерики?
+### 4.  Generics:
+* 4.1  Что такое дженерики?
   
 ### 8.  Функциональное программирование:
 * [8.1  Функции в Dart[()]()
